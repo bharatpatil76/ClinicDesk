@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClinicDesk.Api/ClinicDesk.Api.csproj" />
+    <Project Path="src/ClinicDesk.Business/ClinicDesk.Business.csproj" />
+  </Folder>
+</Solution>
